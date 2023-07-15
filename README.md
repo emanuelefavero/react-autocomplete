@@ -8,6 +8,10 @@ This is a simple React Autocomplete component that uses a Trie data structure to
 
 - [https://react-autocomplete-two.vercel.app](https://react-autocomplete-two.vercel.app)
 
+### Screenshot
+
+![screenshot](./screenshot.webp 'screenshot')
+
 ## Installation
 
 - Clone the repo and run `npm install` to install the dependencies
