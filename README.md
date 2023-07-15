@@ -16,3 +16,7 @@ This is a simple React Autocomplete component that uses a Trie data structure to
 - You can add a new word to the suggestion list by typing it in the input field and pressing the enter key or clicking the "Add Word" button
 
 > Note: This is only a front-end application. The data is not persisted anywhere so if you refresh the page, the list of suggestions will be reset to the default list.
+
+## License
+
+- [MIT](LICENSE.md)
