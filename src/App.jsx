@@ -67,6 +67,7 @@ class Trie {
 
     if (!currentNode) return null
 
+    // Returns an array of all the words in the trie that starts with the prefix
     return this.collectAllWords(currentNode, prefix)
   }
 }
