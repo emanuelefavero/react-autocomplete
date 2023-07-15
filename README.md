@@ -8,6 +8,7 @@ This is a simple React Autocomplete component that uses a Trie data structure to
 
 - Clone the repo and run `npm install` to install the dependencies
 - Run `npm run dev` to start the development server
+- Go to `http://localhost:5173` to view the application
 
 ## Usage
 
