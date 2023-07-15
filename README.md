@@ -4,6 +4,10 @@ This is a simple React Autocomplete component that uses a Trie data structure to
 
 > Note: This is a simple feature example website. The style is not the focus of this project
 
+## Demo
+
+- [https://react-autocomplete-two.vercel.app](https://react-autocomplete-two.vercel.app)
+
 ## Installation
 
 - Clone the repo and run `npm install` to install the dependencies
